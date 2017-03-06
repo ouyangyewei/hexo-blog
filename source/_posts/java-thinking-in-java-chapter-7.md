@@ -1,5 +1,5 @@
 ---
-title: 《Thinking In Java》第七章学习笔记
+title: 《Thinking In Java》学习笔记：final与private关键字
 categories:
 - java
 tags:

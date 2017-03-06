@@ -1,5 +1,5 @@
 ---
-title: 《Thinking In Java》第六章学习笔记
+title: 《Thinking In Java》学习笔记：修饰符访问权限
 categories:
 - java
 tags:

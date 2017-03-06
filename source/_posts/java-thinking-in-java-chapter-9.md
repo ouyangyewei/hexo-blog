@@ -1,5 +1,5 @@
 ---
-title: 《Thinking In Java》第九章学习笔记
+title: 《Thinking In Java》学习笔记：抽象类与接口
 categories:
 - java
 tags:

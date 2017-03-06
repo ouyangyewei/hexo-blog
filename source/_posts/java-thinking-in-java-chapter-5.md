@@ -1,5 +1,5 @@
 ---
-title: 《Thinking In Java》第五章学习笔记
+title: 《Thinking In Java》学习笔记：static与构造器顺序
 categories:
 - java
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 《Thinking In Java》第四章学习笔记
+title: 《Thinking In Java》学习笔记：循环与值拷贝
 categories:
 - java
 tags:
