@@ -3,7 +3,7 @@ $(document).ready(function() {
     if ($(this).parent().hasClass('fancybox')) return;
     if ($(this).hasClass('nofancybox')) return;
     var alt = this.alt;
-    if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+    // if (alt) $(this).after('<span class="caption">' + alt + '</span>');
     $(this).wrap('<a href="' + ($(this).attr('data-src') == null ? this.src : $(this).attr('data-src')) + '" title="' + alt + '" class="fancybox"></a>');
   });
   $(this).find('.fancybox').each(function(){
@@ -11,9 +11,13 @@ $(document).ready(function() {
   });
 });
 $(document).ready(function() {
-  $("a[href$='.jpg'],a[href$='.png'],a[href$='.gif'],a[href$='.webp']").attr('rel', 'gallery').fancybox({
+  $("a[href$='.jpg'],a[href$='.png'],a[href$='.gif'],a[href$='.webp']")
+  .attr('rel', 'gallery')
+  .fancybox({
+    openEffect : 'none',
     helpers : {
-    title: { type: 'inside'}
+      title: null
+      // title: { type: 'inside'}
     }
   });
 });
