@@ -170,6 +170,12 @@ a.setName("dog_a");
 ```
 ![img_007][7]
 
+---
+
+### 参考资料
+[Is-Java-pass-by-reference-or-pass-by-value][8]
+[Java-is-Pass-by-Value-Dammit][9]
+
 
 [1]: http://ol3q0aw97.bkt.clouddn.com/blog/java-pass-by-value-and-pass-by-reference/img_001.png
 [2]: http://ol3q0aw97.bkt.clouddn.com/blog/java-pass-by-value-and-pass-by-reference/img_002.png
@@ -178,3 +184,5 @@ a.setName("dog_a");
 [5]: http://ol3q0aw97.bkt.clouddn.com/blog/java-pass-by-value-and-pass-by-reference/img_005.png
 [6]: http://ol3q0aw97.bkt.clouddn.com/blog/java-pass-by-value-and-pass-by-reference/img_006.png
 [7]: http://ol3q0aw97.bkt.clouddn.com/blog/java-pass-by-value-and-pass-by-reference/img_007.png
+[8]: http://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value
+[9]: http://javadude.com/articles/passbyvalue.htm
