@@ -4,7 +4,7 @@ categories:
 - java
 tags:
 - java
-date: 2017-02-10
+date: 2017-03-13
 toc: true
 ---
 
@@ -37,11 +37,11 @@ public class Demo {
 
 ### main函数
 ```java
-public static void main(String[] args) {
-    Dog dog = new Dog("dog");
-    func_1(dog);
-    func_2(dog);
-}
+33  public static void main(String[] args) {
+34      Dog dog = new Dog("dog");
+35      func_1(dog);
+36      func_2(dog);
+37  }
 ```
 
 ```
@@ -75,10 +75,10 @@ public static void main(java.lang.String[]);
 
 ### 调用func_1函数
 ```java
-public static void func_1(Dog a) {
-    Dog b = new Dog("dog_b");
-    a = b;
-}
+24  public static void func_1(Dog a) {
+25      Dog b = new Dog("dog_b");
+26      a = b;
+27  }
 ```
 
 ```
@@ -134,9 +134,9 @@ a = b;
 
 ### 调用func_2函数
 ```java
-public static void func_2(Dog a) {
-    a.setName("dog_a");
-}
+29  public static void func_2(Dog a) {
+30      a.setName("dog_a");
+31  }
 ```
 
 ```
