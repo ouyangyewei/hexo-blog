@@ -1,4 +1,4 @@
-fancybox: true ## If you want to use fancybox please set the value to true.
+fancybox: false ## If you want to use fancybox please set the value to true.
 duoshuo: ## Your duoshuo_shortname, e.g. username
 disqus: ## Your disqus_shortname, e.g. username
 google_search: false ## Use Google search, true/false.
@@ -59,6 +59,7 @@ timeline:
 # Static files
 js: js
 css: css
+font: font
 
 # Theme version
 version: 0.0.1

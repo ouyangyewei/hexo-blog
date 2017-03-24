@@ -306,6 +306,11 @@ div {
                 &:hover {
                     text-decoration: underline;
                 }
+                &:before {
+                    font-family: "FontAwesome";
+                    content: "\f0c1";
+                    padding-right: 0.3em;
+                }
             }
             .caption {
                 color: #444;
@@ -346,6 +351,11 @@ div {
                 word-break: break-all;
                 &:hover {
                     text-decoration: underline;
+                }
+                &:before {
+                    font-family: "FontAwesome";
+                    content: "\f0c1";
+                    padding-right: 0.3em;
                 }
             }
         }
