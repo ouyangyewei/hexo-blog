@@ -23,9 +23,9 @@ menu:
   - page: about
     directory: about/
     icon: fa-user
-  - page: Talk
-    directory: http://talk.ouyangyewei.me
-    icon: fa-tumblr
+  # - page: Talk
+  #   directory: http://talk.ouyangyewei.me
+  #   icon: fa-tumblr
   - page: rss
     directory: atom.xml
     icon: fa-rss
