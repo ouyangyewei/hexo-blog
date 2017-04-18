@@ -1,10 +1,10 @@
 ---
-title: 《Thinking In Java》学习笔记：内部类
+title: Java 内部类
 categories:
 - java
 tags:
 - java
-date: 2017-02-08
+date: 2017-02-07
 toc: true
 ---
 

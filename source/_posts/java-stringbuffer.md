@@ -1,10 +1,10 @@
 ---
-title: Java StringBuffer和StringBuilder
+title: Java StringBuffer
 categories:
 - java
 tags:
 - java
-date: 2017-04-06
+date: 2017-04-01
 toc: true
 ---
 

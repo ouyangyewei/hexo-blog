@@ -1,10 +1,10 @@
 ---
-title: 《Thinking In Java》学习笔记：final与private关键字
+title: Java final与private关键字
 categories:
 - java
 tags:
 - java
-date: 2017-02-04
+date: 2017-01-28
 toc: true
 ---
 

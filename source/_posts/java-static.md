@@ -1,10 +1,10 @@
 ---
-title: 《Thinking In Java》学习笔记：static与构造器顺序
+title: Java static与构造器顺序
 categories:
 - java
 tags:
 - java
-date: 2017-02-02
+date: 2017-01-21
 toc: false
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: 《Thinking In Java》学习笔记：修饰符访问权限
+title: Java 修饰符访问权限
 categories:
 - java
 tags:
 - java
-date: 2017-02-03
+date: 2017-01-08
 toc: false
 ---
 
@@ -16,3 +16,5 @@ toc: false
 | protected | √ | √ | √ | × |
 | default | √ | √ | × | × |
 | private | √ | × | × | × |
+
+参考:https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html

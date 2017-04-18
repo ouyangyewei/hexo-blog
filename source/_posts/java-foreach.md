@@ -1,10 +1,10 @@
 ---
-title: 《Thinking In Java》学习笔记：循环与值拷贝
+title: Java 循环与值拷贝
 categories:
 - java
 tags:
 - java
-date: 2017-02-01
+date: 2017-01-07
 toc: false
 ---
 
